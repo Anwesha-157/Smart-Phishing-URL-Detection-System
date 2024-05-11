@@ -8,7 +8,7 @@ requests
 scikit_learn
 whois
 gunicorn
-python
+
 
 
 
