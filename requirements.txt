@@ -5,9 +5,10 @@ numpy
 pandas
 python_dateutil
 requests
-scikit_learn
+scikit_learn==1.0.1
 whois
 gunicorn
+python==3.9.7
 
 
 
