@@ -1,3 +1,6 @@
+setuptools>=42
+wheel
+
 beautifulsoup4>=4.9.3,<5.0
 Flask>=2.0.2,<2.2
 Werkzeug>=2.0.2,<2.2
@@ -9,5 +12,6 @@ requests>=2.25.1,<2.27
 scikit_learn>=1.0.1,<1.2
 whois>=0.9.13,<1.0
 gunicorn>=20.1.0,<21.0
+
 
 
